@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='uniqtoken',
-    version='0.1.2',
+    version='0.1.3',
     description='Simple generator of unique tokens.',
     long_description='''
 Usage::

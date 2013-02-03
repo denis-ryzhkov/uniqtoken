@@ -16,7 +16,7 @@ Usage:
 * Is more than 3x faster than standard uuid.uuid4() - see tests in uniqtoken.py:test().
 * Is ready to be used as a fixed length string token containing exactly 64 safe hex digits.
 
-uniqtoken.py version 0.1.2
+uniqtoken version 0.1.3
 Copyright (C) 2013 by Denis Ryzhkov <denisr@denisr.com>
 MIT License, see http://opensource.org/licenses/MIT
 '''
