@@ -5,7 +5,10 @@ setup(
     version='0.1.3',
     description='Simple generator of unique tokens.',
     long_description='''
-Usage::
+"uniqtoken" is DEPRECATED!
+Please see new version "uqid": https://pypi.python.org/pypi/uqid/
+
+Old "uniqtoken" usage::
 
     pip install uniqtoken
     from uniqtoken import uniqtoken

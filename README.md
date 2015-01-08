@@ -1,6 +1,9 @@
 uniqtoken
 =========
 
+**"uniqtoken" is DEPRECATED!**  
+Please see new version "uqid": https://github.com/denis-ryzhkov/uqidpy
+
 Simple generator of unique tokens.
 
 Usage:
